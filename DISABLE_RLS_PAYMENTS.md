@@ -13,7 +13,7 @@
 ## วิธีที่ 2: ใช้ SQL Editor
 
 1. ไปที่ **SQL Editor** ใน Supabase Dashboard
-2. รัน SQL ต่อไปนี้:
+2. รัน SQL 
 
 ```sql
 -- Disable RLS on payments table
