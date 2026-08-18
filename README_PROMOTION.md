@@ -38,7 +38,6 @@
 - Data flow diagram
 
 ### 5. **PROMOTION_IMPLEMENTATION_SUMMARY.md**
-**สิ่งที่จะได้รู้:**
 - ไฟล์ที่สร้าง/อัปเดท
 - ฟีเจอร์ที่ได้รับ
 - Architecture overview
