@@ -13,16 +13,6 @@ A modern Next.js application for booking football fields, built with TypeScript,
 - 🎨 Modern, clean UI with White and Red theme
 - 🎫 **Promotion System**: Coupon codes and discounts for bookings
 
-## Quick Start
-
-### 🚀 Promotion System Setup
-See [QUICK_START.md](QUICK_START.md) for complete setup instructions including database migration.
-
-### Basic Setup
-```bash
-npm install
-npm run dev
-```
 
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
@@ -82,35 +72,3 @@ npm run dev
 └── middleware.ts                 # Next.js middleware
 ```
 
-## Environment Variables
-
-Create a `.env.local` file with the following variables:
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-## Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm start` - Start production server
-- `npm run lint` - Run ESLint
-
-## MVP Features
-
-✅ Navbar with Logo and Login button
-✅ Landing page with list of Football Fields (mock data)
-✅ Field Detail page with "Book Now" button
-✅ Supabase client setup (ready for database integration)
-
-## Next Steps
-
-- Connect to Supabase database
-- Implement authentication
-- Add booking functionality
-- Add user dashboard
-- Add payment integration
-
- a5d110e (Initial commit)
