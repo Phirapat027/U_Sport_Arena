@@ -2,9 +2,7 @@
 
 > ระบบโปรโมชั่น (Coupon/Discount System) สำหรับการจองสนามกีฬา
 
-## 🚀 เริ่มต้นอย่างรวดเร็ว
-
-**⏱️ 5 นาทีก่อน:** [📖 QUICK_START.md](QUICK_START.md)
+ [📖 QUICK_START.md](QUICK_START.md)
 - ทดสอบระบบทั้ง User & Admin ตั้งแต่ต้น
 - รหัสสำหรับทดสอบ
 - ภาพรวมไฟล์ที่เปลี่ยน
@@ -13,47 +11,33 @@
 
 ## 📚 Documentation Files
 
-### 1. **QUICK_START.md** ⚡
-**อ่านเมื่อ:** อยากเริ่มเลย  
-**เวลา:** 5 นาที  
-**สิ่งที่จะได้รู้:**
+### 1. **QUICK_START.md** 
 - วิธีทดสอบระบบ
 - รหัส coupon สำหรับทดสอบ
 - Code examples
 - Checklist
 
-### 2. **PROMOTION_SYSTEM.md** 📖
-**อ่านเมื่อ:** ต้องการเข้าใจระบบแบบลึก  
-**เวลา:** 15-20 นาที  
-**สิ่งที่จะได้รู้:**
+### 2. **PROMOTION_SYSTEM.md** 
 - ฟีเจอร์ทั้งหมด
 - วิธีการใช้สำหรับ User & Admin
 - ไฟล์และโครงสร้าง
 - TypeScript Interfaces
 - Supabase integration guide
 
-### 3. **TESTING_PROMOTION.md** 🧪
-**อ่านเมื่อ:** ต้องการทดสอบ  
-**เวลา:** 10-15 นาที  
-**สิ่งที่จะได้รู้:**
+### 3. **TESTING_PROMOTION.md** 
 - Test cases ทั้งหมด
 - Edge cases & scenarios
 - Browser console testing
 - Production checklist
 
-### 4. **FLOW_DIAGRAMS.md** 📊
-**อ่านเมื่อ:** ต้องการเข้าใจ flow  
-**เวลา:** 10 นาที  
-**สิ่งที่จะได้รู้:**
+### 4. **FLOW_DIAGRAMS.md** 
 - User booking flow
 - Admin management flow
 - Calculation logic
 - Component architecture
 - Data flow diagram
 
-### 5. **PROMOTION_IMPLEMENTATION_SUMMARY.md** ✅
-**อ่านเมื่อ:** ต้องการสรุปการพัฒนา  
-**เวลา:** 15 นาที  
+### 5. **PROMOTION_IMPLEMENTATION_SUMMARY.md**
 **สิ่งที่จะได้รู้:**
 - ไฟล์ที่สร้าง/อัปเดท
 - ฟีเจอร์ที่ได้รับ
@@ -90,7 +74,6 @@ Project_U-sport-arena/
 
 ---
 
-## 🎯 Navigation Guide
 
 ### 👤 สำหรับ User (ผู้ใช้ app)
 
@@ -283,7 +266,6 @@ A: ขณะนี้ยังไม่มี ปลอดภัยเพื่�
 
 ---
 
-## 🎉 Ready to Use!
 
 ```
 Status: ✅ COMPLETE & TESTED
@@ -302,7 +284,6 @@ What's Ready for Production:
 ✅ Ready for unit tests
 ✅ Ready for deployment
 
-Let's Go! 🚀
 ```
 
 ---
@@ -323,5 +304,3 @@ Let's Go! 🚀
 5. FLOW_DIAGRAMS.md            ← Visual explanation
 6. PROMOTION_IMPLEMENTATION_SUMMARY.md ← Details
 ```
-
-Happy coding! 🎉
