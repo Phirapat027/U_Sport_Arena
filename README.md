@@ -1,9 +1,6 @@
  HEAD
 # U_Sport_Arena
-
-# U Sport Arena - Football Field Booking Web App
-
-A modern Next.js application for booking football fields, built with TypeScript, Tailwind CSS, and Shadcn UI.
+https://u-sport-arena.vercel.app/
 
 ## Features
 
